@@ -1,12 +1,8 @@
 # Awesome-Uncertainty-Quantification-Methods
 
-## Conformal Prediction Methods for Exchangeable Data
+## Conformal Prediction Methods Review
 
 [Conformal Prediction: a Unified Review of Theory and New Challenges](https://arxiv.org/pdf/2005.07972.pdf)
-
-[Predictive inference with the jackknife+](https://arxiv.org/pdf/1905.02928.pdf)
-
-
 
 ## Conformal Prediction Methods for Time Series or Non-exchangeable Data
 
