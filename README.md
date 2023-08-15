@@ -10,7 +10,7 @@
 
 [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/pdf/2212.03463.pdf)
 
-[Conformal prediction for time series](https://arxiv.org/pdf/2010.09107.pdf)
+[Conformal Prediction for Time Series](https://arxiv.org/pdf/2010.09107.pdf)
 
 [Adaptive Conformal Predictions for Time Series](https://arxiv.org/pdf/2202.07282.pdf)
 
